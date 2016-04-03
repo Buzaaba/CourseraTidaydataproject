@@ -17,7 +17,7 @@ data set processed from /project_data
 
 Running the run_analysis.R script
 
-clone this repository : git clone https://github.com/dholtz/GettingAndCleaningData
+clone this repository : https://github.com/Buzaaba/CourseraTidaydataproject
 
 change directory into the GettingAndCleaningData directory
 
